@@ -1,82 +1,73 @@
-<a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
+# VIHANGA-BOT-MD
+#### TOTAL REPO VIEWS📍
+![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
 
-# ZIM BOT V4
+    Vihanga MD V3...
 
-## ``` This Script is for Everyone Don't sell it at high price ```
-## WATCH TUTORIAL NICELY DON'T SKIP [`YOUTUBE`](https://youtu.be/KNu-gr2h7bo)
+    [©] New Features
 
-##  ``` Are you Experiencing an error don't hesitate to ask me ``` [`DRIPS`](https://wa.me/+447441437150)
- WhatsApp with so Many features using multi device  [`BAILEYS`](https://github.com/adiwajshing/baileys)
- 
- <a href="https://youtu.be/KNu-gr2h7bo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/ww4z2m3uORU" /><br>
- 
- ## ```Donate Me```
+     > Fix button [ original whatsapp not showd button messages]
+     > add .nopeople command.
+     > add .ehi command
+     > add .ssh command
+     > add .logo command
+     > add advanced yt down cmd. [.ytdl]
+     > and more...
+    
+   
+   
+   
+   
+   ```Thanks Fro using Vihanga MD```
 
-- [`Paypal`](https://www.paypal.me/zimbotinc)
+## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
+
+# Support Group <a href="https://chat.whatsapp.com/JLqwVWcONTkFRRfW89IcR5"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+VIHANGA+MD+WA+BOT.;CREATED+BY+VIHANGA+YT;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+
  </a>
-</p>
-<p align="center">
-<img src="https://i.imgur.com/LbmTdhf.gif" alt="animated"  />
+
 </p>
 
-## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+<div align="center">
 
-> A Fully PRECIOUS COOL BOT BY DRIPS MEMES <br>
-> 
-## DONT FORGET TO GIVE A STAR🌟 AND FORK
+  <p align="center">
 
+<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
 
+</p>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/zimbot-v4)
+  <p align="center">
 
-## BUILD PACKS
+<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+</p>
 
-```
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/ZIM-BOT-INC-QR?v=1)
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
+</div>
 
- ##  > THIS BOT CODED BY DRIPS MEMES ZIM BOT INC 
-
-
-## >  FOLLOW STEPS BELOW FOR INSTALLATION
-
-## >  THIS BOT IT USE MULTI DEVICE BAILEYS
-
-## > CHANGE LINK IN LIB FOLDER 📁📂 CHANGE HERE [`DOCKERFILE`](https://github.com/zim-bot/zimbot-v4/edit/main/lib/Dockerfile)
-
-``` 
-apt install nodejs
-
-apt install git
-
-apt update && apt upgrade
-
-git clone https://github.com/zim-bot/zimbot-v4
+<p align="center">By Vihanga YT>| © | Reserved  </br> 
  
-cd zimbot-v4
+ ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
 
- 
-rm -r session.json
+1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-node --expose-gc index.js
+2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD-V3/fork)
 
-echo scan the qr code and enjoy bot
+2. After That Upload Session.json File
 
-```
+3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
-
-## JOIN MY WHATSAPP GROUP
-
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A)
-
-## MY PERSONAL CHAT
-
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/27634090203)
+5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
 
 
-# > THANKS FOR CHOOSING ZIM BOT WE APPRECIATE YOU FOR YOUR SUPPORT
- 
+## Owner:
+* [`Vihanga-YT`](https://github.com/vihangayt0)
+
+## Thanks To
+* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`Alien-Alfa`](https://github.com/Alien-Alfa)
+* [`DGXeon`](https://github.com/DGXeon)
+* [`AflahXrd`](https://github.com/nexusNw)
+* [`MR.Nima`](https://github.com/DarkMakerofc)
+* [`EDM-OFFICIAL`](https://github.com/edm-official)
