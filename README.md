@@ -33,7 +33,7 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/WGGxrdZ/TS.jpg" alt="GIF" width="500"/>
+<img src="https://i.ibb.co/WGGxrdZ/TS.jpg" alt="GIF" width="700"/>
 
 </p>
 
