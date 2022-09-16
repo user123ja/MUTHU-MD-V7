@@ -8,7 +8,7 @@
    
    
    
-   ```Thanks Fro using Vihanga MD```
+   ```Thanks Fro using MUTHU-MD```
 
 ## Thanks To : [`ZimBot`](https://github.com/zim-bot/zimbot-v4)
 
@@ -23,7 +23,7 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/WGGxrdZ/TS.jpg" alt="GIF" width="400"/>
+<img src="https://i.ibb.co/WGGxrdZ/TS.jpg" alt="GIF" width="700"/>
 
 </p>
 
