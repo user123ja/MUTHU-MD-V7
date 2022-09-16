@@ -1,5 +1,5 @@
 {
-  "name": "VihangaBot-MD",
+  "name": "MUTHU-MD",
   "version": "2.0,1",
   "description": "WhatsApp Using Baileys Multi Device",
   "main": "index.js",
@@ -74,10 +74,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vihangayt0/VihangaBot-MD-V2.git"
+    "url": "git+https://github.com/user123ja/MUTHU-MD-V7.git"
   },
   "bugs": {
-    "url": "https://github.com/vihangayt0/VihangaBot-MD-V2/issues"
+    "url": "https://github.com/user123ja/MUTHU-MD-V7/issues"
   },
-  "homepage": "https://github.com/vihangayt0/VihangaBot-MD-V2#readme"
+  "homepage": "https://github.com/user123ja/MUTHU-MD-V7#readme"
 }

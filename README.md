@@ -1,18 +1,8 @@
 # MUTHU-MD
-#### TOTAL REPO VIEWS📍
+
 
 
     MUTHU-MD
-
-    [©] New Features
-
-     > Fix button [ original whatsapp not showd button messages]
-     > add .nopeople command.
-     > add .ehi command
-     > add .ssh command
-     > add .logo command
-     > add advanced yt down cmd. [.ytdl]
-     > and more...
     
    
    
@@ -33,7 +23,7 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/WGGxrdZ/TS.jpg" alt="GIF" width="700"/>
+<img src="https://i.ibb.co/WGGxrdZ/TS.jpg" alt="GIF" width="400"/>
 
 </p>
 
@@ -61,6 +51,8 @@
 
 
 ## Owner:
+* [`TS`](wa.me/94789166455)
+
 
 
 ## Thanks To
